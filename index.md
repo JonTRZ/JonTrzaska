@@ -12,7 +12,7 @@ _**[Assessing 10-K Sentiment on Firm Returns](report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="report/output_13_0.png.jpg?raw=true"/>
+<img src="report/output_13_0.jpg?raw=true"/>
 
 ---
 
