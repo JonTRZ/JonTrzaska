@@ -1,17 +1,18 @@
 ## About Me
 
 Hi, I'm Jon Trzaska, a junior at Lehigh University studying Finance with a minor in Business Information Systems. 
+
 ---
 
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Assessing 10-K Sentiment on Firm Returns](report/report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/output_13_0.png.jpg?raw=true"/>
 
 ---
 
