@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # <p style="text-align: center;">Midterm Report: My First Data Science Project</p>
 ## <p style="text-align: center;">Jon Trzaska</p>
 
