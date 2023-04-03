@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Assessing 10-K Sentiment on Firm Returns
 ## Jon Trzaska
 
