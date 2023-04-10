@@ -15,25 +15,12 @@ My Mid-Term report in FIN 377: Data Science for Finance
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Future Final Project](https://donbowen.github.io/teamproject/)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Career Objectives
 
