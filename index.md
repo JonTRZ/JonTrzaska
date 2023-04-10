@@ -15,9 +15,9 @@ My Mid-Term report in FIN 377: Data Science for Finance
 
 ---
 
-_**[Future Final Project](https://donbowen.github.io/teamproject/)**_
+_**[WFH makes employee training, development, and integration hard.](https://donbowen.github.io/teamproject/)**_
 
-
+Work-in-progress final project
 
 ---
 
@@ -31,7 +31,7 @@ This summer I'll be working supply chain finance with Johnson & Johnson as part 
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+Outside of my academic pursruits, I prioritize staying fit and healthy. I regularly work out and play on Lehigh's Ultimate Frisbee team, competing in up to 5 tournaments a semester. I am also a big movie fan, excited to see the future slate of Star Wars and Indiana Jones. The highlight of my Lehigh experience thus far has been being able to travel to Milan, IT for the summer in Professor Gupta's inaugural "Lehigh Business in Milan" program. 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
