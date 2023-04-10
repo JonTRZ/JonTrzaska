@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Jon Trzaska, a junior at Lehigh University studying Finance with a minor in Business Information Systems. 
+Hi, I'm Jon Trzaska, a junior at Lehigh University studying Finance with a minor in Business Information Systems. Im from all over South-Eastern Pennsylvania, having lived in Warminster, Doyelstown, and now, Upper Perkiomen. This upcoming summer, I'll be working for Johnson & Johnson Finance in Malvern, PA. 
 
 ---
 
