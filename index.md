@@ -10,8 +10,7 @@ Hi, I'm Jon Trzaska, a junior at Lehigh University studying Finance with a minor
 
 _**[Assessing 10-K Sentiment on Firm Returns](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
+My Mid-Term report in FIN 377: Data Science for Finance
 <img src="report/output_13_0.png?raw=true"/>
 
 ---
@@ -38,9 +37,8 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Primarily interested in more corporate finance opportunities, my interests have more recently become intertwined with data science and business information systems. 
+This summer I'll be working supply chain finance with Johnson & Johnson as part of their FLDP internship. Though I would like to return to the firm full-time, I am keeping my eyes open for more applicable roles that combine analytics and data science. I really am still deciding what exact role I want most after graduation, something that I hope to gain a better perspective on after this summer. 
 
 ---
 
