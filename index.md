@@ -10,14 +10,13 @@ Hi, I'm Jon Trzaska, a junior at Lehigh University studying Finance with a minor
 
 _**[Assessing 10-K Sentiment on Firm Returns](report/report.md)**_
 
-My Mid-Term report in FIN 377: Data Science for Finance
 <img src="report/output_13_0.png?raw=true"/>
 
 ---
 
 _**[Work From Home’s Influence on Employee Performance and Compensation]((https://andrewschac.github.io/stash-ka))**_
 
-Final Project assessing the effects of WFH
+<img src="https://github.com/andrewschac/stash-ka/blob/main/pics/multiple_time_series.jpg?raw=true"/>
 
 ---
 
