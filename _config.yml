@@ -9,4 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/JonTRZ">GitHub</a>  
   <br>
   
-theme: jekyll-theme-time machine
+theme: jekyll-theme-minimal
