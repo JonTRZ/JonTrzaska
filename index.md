@@ -14,7 +14,7 @@ _**[Assessing 10-K Sentiment on Firm Returns](report/report.md)**_
 
 ---
 
-_**[Work From Home’s Influence on Employee Performance and Compensation]((https://andrewschac.github.io/stash-ka))**_
+_**[Work From Home’s Influence on Employee Performance and Compensation]((https://andrewschac.github.io/stash-ka/))**_
 
 <img src="https://github.com/andrewschac/stash-ka/blob/main/pics/multiple_time_series.jpg?raw=true"/>
 
