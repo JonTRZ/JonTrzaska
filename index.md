@@ -15,9 +15,9 @@ My Mid-Term report in FIN 377: Data Science for Finance
 
 ---
 
-_**[WFH makes employee training, development, and integration hard.](https://donbowen.github.io/teamproject/)**_
+_**[Work From Home’s Influence on Employee Performance and Compensation]((https://andrewschac.github.io/stash-ka))**_
 
-Work-in-progress final project
+Final Project assessing the effects of WFH
 
 ---
 
