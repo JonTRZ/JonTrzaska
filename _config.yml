@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <a href="https://www.linkedin.com/in/jonathantrzaska/">LinkedIn</a> 
   <br>
-  <a href="/pdf/TRZASKA Jonathan Resume 2022.pdf" class="btn btn--info">Resume</a>  
+  <a href="/pdf/TRZASKA Jonathan Resume 2022.pdf">Resume</a>  
   <br>
   <a href="https://github.com/JonTRZ">GitHub</a>  
   <br>
   
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minima
